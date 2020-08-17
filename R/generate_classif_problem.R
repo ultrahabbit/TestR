@@ -1,6 +1,6 @@
 #' Calculate features from Talagala, Hyndman, Athanaspoulos and add them to the dataset
 #'
-#'  For each series in \code{dataset}, the feature set used in
+#'  For each series in \code{dataset}, the feature set used  in
 #'   (Talagala, Hyndman and Athanasopoulos, 2018) is calculated
 #'    and added to the \code{forec_err_dataset}. A \code{tibble} named \code{features}
 #'     is added.
